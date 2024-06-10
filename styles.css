@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+}
+
+.jumbotron h1 {
+  font-size: 3rem;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
