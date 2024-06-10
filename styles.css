@@ -15,3 +15,12 @@ body {
   margin-top: 2rem;
 }
 
+#features .row {
+  margin-top: 1rem;
+}
+
+#features h3 {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
